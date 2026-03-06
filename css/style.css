@@ -1,0 +1,67 @@
+body{
+font-family: Arial;
+margin:0;
+background:#f5f7fb;
+text-align:center;
+}
+
+header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px;
+background:white;
+box-shadow:0 2px 5px rgba(0,0,0,0.1);
+}
+
+.logo{
+font-size:20px;
+font-weight:bold;
+}
+
+nav a{
+margin:0 10px;
+text-decoration:none;
+color:#333;
+}
+
+.hero{
+padding:80px 20px;
+}
+
+.hero h1{
+font-size:40px;
+color:#2c3e50;
+}
+
+.hero p{
+max-width:700px;
+margin:auto;
+margin-top:20px;
+color:#555;
+}
+
+.btn{
+display:inline-block;
+margin-top:30px;
+padding:12px 30px;
+background:#4a6cf7;
+color:white;
+text-decoration:none;
+border-radius:5px;
+}
+
+.hero-img{
+width:500px;
+margin-top:40px;
+}
+
+.tableauPlaceholder{
+width:90%;
+margin:auto;
+margin-top:40px;
+}
+
+.title{
+margin-top:40px;
+}
